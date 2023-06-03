@@ -1,0 +1,17 @@
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\CsUnitTestsXunit.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\CsUnitTestsXunit.pdb
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.abstractions.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.assert.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.core.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.execution.desktop.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.assert.xml
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.core.xml
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.execution.desktop.xml
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\obj\Release\CsUnitTestsXunit.csprojAssemblyReference.cache
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\obj\Release\CsUnitTestsXunit.csproj.CoreCompileInputs.cache
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\obj\Release\CsUnitTestsXunit.csproj.CopyComplete
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\obj\Release\CsUnitTestsXunit.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\obj\Release\CsUnitTestsXunit.pdb
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.runner.visualstudio.testadapter.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.runner.reporters.net452.dll
+J:\WaterQuality\H5_Assist\CsUnitTestsXunit\bin\Release\xunit.runner.utility.net452.dll
